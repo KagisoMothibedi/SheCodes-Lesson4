@@ -4,6 +4,11 @@ h1 {
 h2 {
   text-align: center;
 }
+form {
+  display: block;
+  text-align: center;
+  margin: 10px 0;
+}
 
 .servers {
   width: 500px;
